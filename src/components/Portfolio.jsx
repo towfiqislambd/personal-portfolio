@@ -22,7 +22,7 @@ const Portfolio = () => {
                         <p className="font-bold text-xl mb-2">Crowd Funding Application</p>
                         <p className="text-gray-700 mb-5 font-medium">A crowdfunding website is a platform where people can raise money for different projects, ideas, or causes by inviting others to contribute financially</p>
                         <div className="flex gap-2 items-center">
-                            <a target="_blank" href="https://crowd-funding-12832.web.app" className="flex gap-2 items-center bg-amber-600 text-white duration-500 hover:bg-transparent hover:text-amber-600 font-semibold border-2 rounded border-amber-600 px-4 py-1">
+                            <a target="_blank" href="https://crowd-fundingbd.netlify.app" className="flex gap-2 items-center bg-amber-600 text-white duration-500 hover:bg-transparent hover:text-amber-600 font-semibold border-2 rounded border-amber-600 px-4 py-1">
                                 <span>Live Link</span>
                                 <FaLink className="inline text-lg" />
                             </a>
