@@ -1,6 +1,6 @@
 import { FaFacebookF, FaLinkedinIn } from "react-icons/fa";
 import { LuMail } from "react-icons/lu";
-import resume from "../assets/resume.pdf"
+import resume from "../assets/resume_of_towfiq_islam.pdf"
 import { Typewriter } from 'react-simple-typewriter'
 import { HiOutlineDownload } from "react-icons/hi";
 import { FiFileText } from "react-icons/fi";
@@ -33,7 +33,7 @@ const Banner = () => {
                 </p>
                 <div className="flex justify-center items-center gap-6 mb-8 mt-6">
                     <a target="_blank" href="https://www.facebook.com/towfiqislambd"><FaFacebookF className="text-xl" /></a>
-                    <a target="_blank" href="https://drive.google.com/file/d/1E-_TH36-1JCwsoIF_P-8uY9-P7N7CGYS/view?usp=sharing"><FiFileText className="text-xl" /></a>
+                    <a target="_blank" href="https://drive.google.com/file/d/1dNtdGa7bcVG5l2-D1WF5vDC5er5o2yNu/view?usp=sharing"><FiFileText className="text-xl" /></a>
                     <a target="_blank" href="https://www.linkedin.com/in/towfiqislambd"><FaLinkedinIn className="text-xl" /></a>
                     <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=towfiqislambd@gmail.com"><LuMail className="text-xl" /></a>
                 </div>
